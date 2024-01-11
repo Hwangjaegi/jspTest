@@ -1,0 +1,8 @@
+@charset "UTF-8";
+table{ background-color: #05dbfa; border: 5px solid black; width:95% }
+body{ background-color: rgb(156, 224, 226);}
+caption{ font-size:30px; font-weight: bold; line-height: 150%; }
+tr,th,td{ padding: 15px;}
+td{ background-color: #B2EBF4;}
+th{ background-color: #c0c0c0;}
+/* 적용이안될 때 방문기록 삭제하면 적용될 때 있다 -> 크롬의 경우 자주 발생한다. */
